@@ -9,6 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 global window
 
+#THIS IS JUST A TESTING FOR OUR GIT
 window= Tkinter.Tk()
 window.title("Amanpreet Cime Analysis")
 window.geometry("1200x1000")
